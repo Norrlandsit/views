@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the testfeaut feature.
+ */
+
+include_once 'testfeaut.features.inc';
